@@ -1,0 +1,16 @@
+Opportunities by  AI in Manufacturing in SMEs
+1)Cyber security and Protection : AI has helped several industries with cyber security which is most common problem faced by any tech or non-tech SMEs ,as it gives various options to scan for vulnerabilities and threats and also gives options to remove or destroy them.
+2)Targeted advertisement and campaigns: As consumer feeding is a vital task for any company to sell it's product or increase its sales , AI does by learning via user experience and recommending them similar to near products.
+Eg: Amazon recommending any products you have previously searched for on web
+3)It gives Small enterprises a good guidance and way of starting their work as they have limited funding and resources but AI backs it up by providing roadmap and also options like Supply chain management, Inventory maintenance ,etc. .
+4)Human and Technology collaboration is made easy by AI as AI helps human labour to be skilled and AI itself takes part on production process to increase optimization and efficiency of products and services. And this also helps to create more job opportunities for skilled human personnel.
+
+
+
+Benefits of AI in Manufacturing industries 
+1)One of the most beneficial part of AI is predictive maintenance it helps small and medium sized industries to prevent major equipment to corrupt and also prevent financial loss and helps them lasts longer.
+2)As small and medium sized enterprises don't have a large capital on their hands so AI helps them suggest marketing strategies and which industrial approach to select optimally in limited funds.
+eg: Production according to user's requirements, etc..
+3)AI brings revolution in enterprises as it acts as joint between human and technology , so this helps industries to combine human knowledge and physical skills and Technology to yield best quality product.
+eg: Manufacturing cars requires both technology and human skills
+4)AI also plays a major role in Decision making , as sometimes human get confused due to mixed emotions, ethical reason or so , but AI helps pick optimal solution only so that to avoid any monetary loss or reputation loss or etc. .
